@@ -41,7 +41,7 @@ Développeur web passionné, actuellement en 3ème année d'études. Spécialis�
 ## 🌱 Actuellement en apprentissage
 
 - Développement d'applications React avancées
-- Travail sur le cloud avec Google App Script
+- Automatisation de tâches et intégration de services avec Google Apps Script
 - Langages généraux : JavaScript, BigQuery, Python
 
 ## 💼 Expérience Professionnelle

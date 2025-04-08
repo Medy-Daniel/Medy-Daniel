@@ -41,7 +41,7 @@ Développeur web passionné, actuellement en 3ème année d'études. Spécialis�
 ## 📈 Contributions
 
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=EgloZ938" alt="Contribution Stats" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Medy-Daniel" alt="Contribution Stats" />
 </p>
 
 ## 🌱 Actuellement en apprentissage

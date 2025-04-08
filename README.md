@@ -6,7 +6,7 @@
 
 ## 🚀 À propos de moi
 
-Développeur web passionné, actuellement en 3ème année d'études. Spécialisé en développement fullstack avec un intérêt particulier pour l'intelligence artificielle et le Green IT. Je suis constamment à la recherche de nouveaux défis pour élargir mes compétences et créer des solutions innovantes.
+Développeur web passionné, actuellement en 3ème année d'études. Spécialisé en développement fullstack avec un intérêt particulier pour l'intelligence artificielle et le Cloud. Je suis constamment à la recherche de nouveaux défis pour élargir mes compétences et créer des solutions innovantes.
 
 > "Le code est comme l'humour. Quand on doit l'expliquer, c'est mauvais." – Cory House
 

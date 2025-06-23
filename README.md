@@ -29,12 +29,6 @@ Développeur web passionné, actuellement en 3ème année d'études. Spécialis�
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Medy-Daniel&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Medy-Daniel&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medy-Daniel&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 

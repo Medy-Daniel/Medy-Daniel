@@ -6,7 +6,7 @@
 
 ##  À propos de moi
 
-Développeur web passionné, actuellement en 3ème année d'études. Spécialisé en développement fullstack avec un intérêt particulier pour l'intelligence artificielle et le Cloud. Je suis constamment à la recherche de nouveaux défis pour élargir mes compétences et créer des solutions innovantes.
+Développeur web et applications en freelance. Spécialisé en développement fullstack avec un intérêt particulier pour l'intelligence artificielle, le Cloud et la création de solutions sur mesure pour des clients. Je conçois des applications modernes, performantes et scalables, aussi bien web que mobiles.
 
 > "Le code est comme l'humour. Quand on doit l'expliquer, c'est mauvais." – Cory House
 
@@ -16,17 +16,14 @@ Développeur web passionné, actuellement en 3ème année d'études. Spécialis�
 
 ##  Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medy-Daniel&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medy-Daniel&layout=compact&theme=radical" /> </p>
 
-##  Actuellement en apprentissage
-
-- Développement d'applications React avancées
-- Automatisation de tâches et intégration de services avec Google Apps Script
-- Langages généraux : JavaScript, BigQuery, Python
 
 ##  Expérience Professionnelle
+
+- **Auto-entrepreneur** — Développeur Web & Applications en Freelance (Depuis octobre 2025)
+Conception et développement d'applications web et mobiles sur mesure pour des clients.
+Stack principale : React, Next.js, React Native, Node.js, Firebase, Supabase, MongoDB, Docker
 
 - **Veolia** - Développeur Web (Actuellement)
 Développement et remédiation d'applications web au siège de Saint-Maurice

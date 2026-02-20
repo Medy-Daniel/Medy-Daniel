@@ -31,7 +31,7 @@ Technologies utilisées : HTML/CSS, JavaScript, React, Node.js, Python, Appscrip
 
 ##  Formation
 
-- **Bachelor Développeur Fullstack & IA - EPSI Paris (En cours)
+- **Bachelor Développeur Fullstack & IA - EPSI Paris (2025)
 - **Formation Développeur Web - O'clock (2023-2024)
 
 ##  Langues

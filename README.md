@@ -69,11 +69,3 @@ Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/m%C3%A9dy-da
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EgloZ938&color=blueviolet" alt="Profile views" />
 </p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/egloz">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</p>
-message.txt
-6 Ko

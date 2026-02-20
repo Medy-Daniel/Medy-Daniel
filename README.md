@@ -71,10 +71,6 @@ Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/m%C3%A9dy-da
 </p>
 
 <p align="center">
-  <i>Si vous aimez mes projets, n'hésitez pas à me soutenir avec un ☕</i>
-</p>
-
-<p align="center">
   <a href="https://www.buymeacoffee.com/egloz">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>

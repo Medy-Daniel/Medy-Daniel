@@ -1,16 +1,16 @@
-# 👋 Bonjour, je suis Médy Daniel
+#  Bonjour, je suis Médy Daniel
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://medy-daniel.fr/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)]([https://medy-daniel.fr/](https://novaleap.medy-daniel.fr/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A9dy-daniel/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medy.vilgenis@gmail.com)
 
-## 🚀 À propos de moi
+##  À propos de moi
 
 Développeur web passionné, actuellement en 3ème année d'études. Spécialisé en développement fullstack avec un intérêt particulier pour l'intelligence artificielle et le Cloud. Je suis constamment à la recherche de nouveaux défis pour élargir mes compétences et créer des solutions innovantes.
 
 > "Le code est comme l'humour. Quand on doit l'expliquer, c'est mauvais." – Cory House
 
-## 🛠️ Technologies et Outils
+##  Technologies et Outils
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -26,41 +26,41 @@ Développeur web passionné, actuellement en 3ème année d'études. Spécialis�
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📊 Statistiques GitHub
+##  Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medy-Daniel&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 🌱 Actuellement en apprentissage
+##  Actuellement en apprentissage
 
 - Développement d'applications React avancées
 - Automatisation de tâches et intégration de services avec Google Apps Script
 - Langages généraux : JavaScript, BigQuery, Python
 
-## 💼 Expérience Professionnelle
+##  Expérience Professionnelle
 
 - **Veolia** - Développeur Web (Actuellement)
 Développement et remédiation d'applications web au siège de Saint-Maurice
 Technologies utilisées : HTML/CSS, JavaScript, React, Node.js, Python, Appscript, BigQuery
 
-## 🎓 Formation
+##  Formation
 
 - **Bachelor Développeur Fullstack & IA - EPSI Paris (En cours)
 - **Formation Développeur Web - O'clock (2023-2024)
 
-## 🌐 Langues
+##  Langues
 
 - Français (Natif)
 - Anglais (Intermédiaire)
 
-## ⚡ Faits intéressants
+##  Faits intéressants
 
 - Je code des projets personnels pendant mon temps libre pour explorer de nouvelles technologies
 - Sportif passionné, j'aime profiter de mon temps libre pour pratiquer diverses activités physiques
 - Curieux et avide d'apprentissage, je m'intéresse à une multitude de domaines pour enrichir mes connaissances
 
-## 📫 Comment me joindre
+##  Comment me joindre
 
 Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/m%C3%A9dy-daniel/) ou par [email](mailto:medy.vilgenis@gmail.com).
 

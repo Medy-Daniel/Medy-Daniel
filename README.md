@@ -51,6 +51,3 @@ Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/m%C3%A9dy-da
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Medy-Daniel&color=blueviolet" alt="Profile views" />
-</p>

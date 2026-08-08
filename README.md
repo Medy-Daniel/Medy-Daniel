@@ -8,7 +8,6 @@
 
 Développeur web et applications en freelance. Spécialisé en développement fullstack avec un intérêt particulier pour l'intelligence artificielle, le Cloud et la création de solutions sur mesure pour des clients. Je conçois des applications modernes, performantes et scalables, aussi bien web que mobiles.
 
-> "Le code est comme l'humour. Quand on doit l'expliquer, c'est mauvais." – Cory House
 
 ##  Technologies et Outils
 

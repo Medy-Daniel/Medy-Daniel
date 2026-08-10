@@ -44,7 +44,7 @@ Technologies utilisées : HTML/CSS, JavaScript, React, Node.js, Python, Appscrip
 - Sportif passionné, j'aime profiter de mon temps libre pour pratiquer diverses activités physiques
 - Curieux et avide d'apprentissage, je m'intéresse à une multitude de domaines pour enrichir mes connaissances
 
-##  Comment me joindre
+##  Comment me joindre ?
 
 Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/m%C3%A9dy-daniel/) ou par [email](mailto:medy.vilgenis@gmail.com).
 

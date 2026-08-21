@@ -25,7 +25,7 @@ Conception et développement d'applications web et mobiles sur mesure pour des c
 Stack principale : React, Next.js, React Native, Node.js, Firebase, Supabase, MongoDB, Docker
 
 - **Veolia** - Développeur Web (2024-2025)
-Développement et remédiation d'applications web au siège de Saint-Maurice
+Développement et remédiation d'applications web au siège de Saint-Maurice.
 Technologies utilisées : HTML/CSS, JavaScript, React, Node.js, Python, Appscript, BigQuery
 
 ##  Formation

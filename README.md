@@ -40,9 +40,9 @@ Technologies utilisées : HTML/CSS, JavaScript, React, Node.js, Python, Appscrip
 
 ##  Faits intéressants
 
-- Je code des projets personnels pendant mon temps libre pour explorer de nouvelles technologies.
-- Sportif passionné, j'aime profiter de mon temps libre pour pratiquer diverses activités physiques.
-- Curieux et avide d'apprentissage, je m'intéresse à une multitude de domaines pour enrichir mes connaissances.
+- Je code des projets personnels pendant mon temps libre pour explorer de nouvelles technologies
+- Sportif passionné, j'aime profiter de mon temps libre pour pratiquer diverses activités physiques
+- Curieux et avide d'apprentissage, je m'intéresse à une multitude de domaines pour enrichir mes connaissances
 
 ##  Comment me joindre ?
 
